@@ -54,7 +54,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>nexus</name>
-			<url>http://39.108.49.183:9903/nexus/content/groups/public/</url>
+			<url>http://39.108.49.1:9903/nexus/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
